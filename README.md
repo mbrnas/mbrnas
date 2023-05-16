@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🔭 I’m currently working on a Java banking app!<br>🌱 I’m currently learning React and PostgreSQL<br>💬 Ask me about my coding journey!<br>
 
 
